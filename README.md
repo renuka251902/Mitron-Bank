@@ -1,14 +1,15 @@
 # Mitron Bank – Credit Card Market Analysis
-## 📌 Objective
+## Objective
 Analyze customer demographics, income utilization, and spending patterns to provide data-driven recommendations for designing new credit card features.
 
 ## Table Of Contents
-- [Objective](#Objective)
-- [Key Challenges & Approach](#Key-Challenges-&-Approach)
+- [Objective](#📌-Objective)
+- [Key Challenges](#Key-Challenges)
 - [Key Insights](#Key-Insights)
 - [Actionable Credit Card Recommendations](#Actionable-Credit-Card-Recommendations)
+- [Live Dashboard](#Live-Dashboard)
 
-## Key Challenges & Approach
+## Key Challenges
 🔹 Demographic Classification: Segment customers by age, gender, occupation, and city.
 
 🔹 Income Utilization: Measure the average income utilization % (spending relative to income) to gauge credit card usage potential.
@@ -65,7 +66,7 @@ Analyze customer demographics, income utilization, and spending patterns to prov
 - Seasonal Trends:
 ✔ September: Highest spending month ($116M, 21.84% of total spend)
 
-## 📌 Actionable Credit Card Recommendations
+## Actionable Credit Card Recommendations
 1️⃣ Personalized Rewards: Offer higher cashback & rewards in top spending categories (Bills, Grocery, Electronics).
 
 2️⃣ Income-Based Credit Limits: Adjust credit limits based on utilization trends to encourage responsible spending.
