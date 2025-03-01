@@ -71,7 +71,10 @@ Analyze customer demographics, income utilization, and spending patterns to prov
 - Business owners: Flexible payment terms & business-related rewards.
  
 - Government employees: Low-interest rates & bill payment benefits.
-- 
+  
 4️⃣ City-Specific Promotions: Focus marketing in Mumbai, Chennai, and Bangalore for higher engagement.
 
 5️⃣ Seasonal Offers: Launch credit card promotions before peak spending months (August-September).
+
+## Live Dashboard 
+ https://lnkd.in/gVgY2XB4
