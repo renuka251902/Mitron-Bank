@@ -1,5 +1,5 @@
 # Mitron Bank – Credit Card Market Analysis
-### 📌 Objective
+## 📌 Objective
 Analyze customer demographics, income utilization, and spending patterns to provide data-driven recommendations for designing new credit card features.
 
 ## Key Challenges & Approach
