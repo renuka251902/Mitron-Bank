@@ -2,6 +2,12 @@
 ## 📌 Objective
 Analyze customer demographics, income utilization, and spending patterns to provide data-driven recommendations for designing new credit card features.
 
+## Table Of Contents
+- [Objective](#Objective)
+- [Key Challenges & Approach](#Key-Challenges-&-Approach)
+- [Key Insights](#Key-Insights)
+- [Actionable Credit Card Recommendations](#Actionable-Credit-Card-Recommendations)
+
 ## Key Challenges & Approach
 🔹 Demographic Classification: Segment customers by age, gender, occupation, and city.
 
@@ -13,7 +19,7 @@ Analyze customer demographics, income utilization, and spending patterns to prov
 
 🔹 Credit Card Feature Recommendations: Suggest card benefits aligned with customer needs and industry trends.
 
-## Key Insights & Findings
+## Key Insights 
 ### 1️⃣ Demographic Overview
 ✅ Total Customers: 4,000
 
