@@ -84,4 +84,4 @@ Analyze customer demographics, income utilization, and spending patterns to prov
 5️⃣ Seasonal Offers: Launch credit card promotions before peak spending months (August-September).
 
 ## Live Dashboard 
- https://lnkd.in/gVgY2XB4
+ https://lnkd.in/g85tw25g
