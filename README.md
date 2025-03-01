@@ -3,7 +3,7 @@
 Analyze customer demographics, income utilization, and spending patterns to provide data-driven recommendations for designing new credit card features.
 
 ## Table Of Contents
-- [Objective](#📌-Objective)
+- [Objective](#Objective)
 - [Key Challenges](#Key-Challenges)
 - [Key Insights](#Key-Insights)
 - [Actionable Credit Card Recommendations](#Actionable-Credit-Card-Recommendations)
